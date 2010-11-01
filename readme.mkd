@@ -1,0 +1,6 @@
+##FireShepherd
+
+Initially released by [Gunnar Atli Sigurdsson](http://notendur.hi.is/~gas15/FireShepherd/) in the GPL, copied and adapted to UNIX systems
+
+
+--Barak
